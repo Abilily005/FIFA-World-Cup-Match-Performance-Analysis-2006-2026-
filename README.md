@@ -6,7 +6,7 @@ This project analyzes FIFA World Cup match performance from 2006 to 2026 using d
 
 The project focuses on understanding match outcomes, team performance, scoring patterns, and tournament-level trends through an interactive Power BI dashboard.
 
-The data was stored and processed using AWS services, queried using Amazon Athena and SQL, and finally connected to Power BI for visualization and analysis.
+The data was stored and processed using AWS services, queried using Amazon Athena and SQL, and connected to Power BI for visualization and analysis.
 
 ---
 
@@ -64,8 +64,6 @@ Football Match Dataset
     Data Catalog
         ↓
    Amazon Athena
-        ↓
-       SQL
         ↓
     Power BI
         ↓
