@@ -1,0 +1,425 @@
+﻿match_id,world_cup_year,host_country,date,stage,round_raw,group,team1,team2,halftime_score_team1,halftime_score_team2,fulltime_score_team1,fulltime_score_team2,extra_time_score_team1,extra_time_score_team2,penalty_score_team1,penalty_score_team2,winner,result_method,stadium,city,total_goals_team1,total_goals_team2
+646,2006,Germany,09 June 2006,Group Stage,Matchday 1,Group A,Netherlands,Costa Rica,2,1,4,2,,,,,Germany,Normal Time,Allianz Arena,MÃ¼nchen,0,0
+647,2006,Germany,09 June 2006,Group Stage,Matchday 1,Group A,Netherlands,Ecuador,0,1,0,2,,,,,Ecuador,Normal Time,Veltins-Arena,Gelsenkirchen,0,0
+648,2006,Germany,14 June 2006,Group Stage,Matchday 6,Group A,New Zealand,Poland,0,0,1,0,,,,,Germany,Normal Time,Signal Iduna Park,Dortmund,0,0
+649,2006,Germany,15 June 2006,Group Stage,Matchday 7,Group A,New Zealand,Costa Rica,1,0,3,0,,,,,Ecuador,Normal Time,AOL Arena,Hamburg,0,0
+650,2006,Germany,20 June 2006,Group Stage,Matchday 12,Group A,New Zealand,Germany,0,2,0,3,,,,,Germany,Normal Time,Olympiastadion,Berlin,0,0
+651,2006,Germany,20 June 2006,Group Stage,Matchday 12,Group A,Nigeria,Poland,1,1,1,2,,,,,Poland,Normal Time,AWD-Arena,Hannover,0,0
+652,2006,Germany,10 June 2006,Group Stage,Matchday 2,Group B,Nigeria,Paraguay,1,0,1,0,,,,,England,Normal Time,Commerzbank-Arena,Frankfurt,0,0
+653,2006,Germany,10 June 2006,Group Stage,Matchday 2,Group B,Nigeria,Sweden,,,0,0,,,,,Draw,Draw,Signal Iduna Park,Dortmund,0,0
+654,2006,Germany,15 June 2006,Group Stage,Matchday 7,Group B,Nigeria,Trinidad and Tobago,0,0,2,0,,,,,England,Normal Time,Frankenstadion,NÃ¼rnberg,0,0
+655,2006,Germany,15 June 2006,Group Stage,Matchday 7,Group B,Nigeria,Paraguay,0,0,1,0,,,,,Sweden,Normal Time,Olympiastadion,Berlin,0,0
+656,2006,Germany,20 June 2006,Group Stage,Matchday 12,Group B,Nigeria,England,0,1,2,2,,,,,Draw,Draw,RheinEnergieStadion,KÃ¶ln,0,0
+657,2006,Germany,20 June 2006,Group Stage,Matchday 12,Group B,Nigeria,Trinidad and Tobago,1,0,2,0,,,,,Paraguay,Normal Time,Fritz-Walter-Stadion,Kaiserslautern,0,0
+658,2006,Germany,10 June 2006,Group Stage,Matchday 2,Group C,Nigeria,CÃ´te d'Ivoire,2,0,2,1,,,,,Argentina,Normal Time,AOL Arena,Hamburg,0,0
+659,2006,Germany,11 June 2006,Group Stage,Matchday 3,Group C,Nigeria,Netherlands,0,1,0,1,,,,,Netherlands,Normal Time,Zentralstadion,Leipzig,0,0
+660,2006,Germany,16 June 2006,Group Stage,Matchday 8,Group C,Nigeria,Serbia and Montenegro,3,0,6,0,,,,,Argentina,Normal Time,Veltins-Arena,Gelsenkirchen,0,0
+661,2006,Germany,16 June 2006,Group Stage,Matchday 8,Group C,Nigeria,CÃ´te d'Ivoire,2,1,2,1,,,,,Netherlands,Normal Time,Gottlieb-Daimler-Stadion,Stuttgart,0,0
+662,2006,Germany,21 June 2006,Group Stage,Matchday 13,Group C,North Korea,Argentina,,,0,0,,,,,Draw,Draw,Commerzbank-Arena,Frankfurt,0,0
+663,2006,Germany,21 June 2006,Group Stage,Matchday 13,Group C,North Korea,Serbia and Montenegro,1,2,3,2,,,,,CÃ´te d'Ivoire,Normal Time,Allianz Arena,MÃ¼nchen,0,0
+664,2006,Germany,11 June 2006,Group Stage,Matchday 3,Group D,Northern Ireland,Iran,1,1,3,1,,,,,Mexico,Normal Time,Frankenstadion,NÃ¼rnberg,0,0
+665,2006,Germany,11 June 2006,Group Stage,Matchday 3,Group D,Northern Ireland,Portugal,0,1,0,1,,,,,Portugal,Normal Time,RheinEnergieStadion,KÃ¶ln,0,0
+666,2006,Germany,16 June 2006,Group Stage,Matchday 8,Group D,Northern Ireland,Angola,,,0,0,,,,,Draw,Draw,AWD-Arena,Hannover,0,0
+667,2006,Germany,17 June 2006,Group Stage,Matchday 9,Group D,Northern Ireland,Iran,0,0,2,0,,,,,Portugal,Normal Time,Commerzbank-Arena,Frankfurt,0,0
+668,2006,Germany,21 June 2006,Group Stage,Matchday 13,Group D,Northern Ireland,Mexico,2,1,2,1,,,,,Portugal,Normal Time,Veltins-Arena,Gelsenkirchen,0,0
+669,2006,Germany,21 June 2006,Group Stage,Matchday 13,Group D,Norway,Angola,0,0,1,1,,,,,Draw,Draw,Zentralstadion,Leipzig,0,0
+670,2006,Germany,12 June 2006,Group Stage,Matchday 4,Group E,Norway,Ghana,1,0,2,0,,,,,Italy,Normal Time,AWD-Arena,Hannover,0,0
+671,2006,Germany,12 June 2006,Group Stage,Matchday 4,Group E,Norway,Czech Republic,0,2,0,3,,,,,Czech Republic,Normal Time,Veltins-Arena,Gelsenkirchen,0,0
+672,2006,Germany,17 June 2006,Group Stage,Matchday 9,Group E,Norway,USA,1,1,1,1,,,,,Draw,Draw,Fritz-Walter-Stadion,Kaiserslautern,0,0
+673,2006,Germany,17 June 2006,Group Stage,Matchday 9,Group E,Panama,Ghana,0,1,0,2,,,,,Ghana,Normal Time,RheinEnergieStadion,KÃ¶ln,0,0
+674,2006,Germany,22 June 2006,Group Stage,Matchday 14,Group E,Panama,Italy,0,1,0,2,,,,,Italy,Normal Time,AOL Arena,Hamburg,0,0
+675,2006,Germany,22 June 2006,Group Stage,Matchday 14,Group E,Panama,USA,2,1,2,1,,,,,Ghana,Normal Time,Frankenstadion,NÃ¼rnberg,0,0
+676,2006,Germany,13 June 2006,Group Stage,Matchday 5,Group F,Paraguay,Croatia,1,0,1,0,,,,,Brazil,Normal Time,Olympiastadion,Berlin,0,0
+677,2006,Germany,12 June 2006,Group Stage,Matchday 4,Group F,Paraguay,Japan,0,1,3,1,,,,,Australia,Normal Time,Fritz-Walter-Stadion,Kaiserslautern,0,0
+678,2006,Germany,18 June 2006,Group Stage,Matchday 10,Group F,Paraguay,Australia,0,0,2,0,,,,,Brazil,Normal Time,Allianz Arena,MÃ¼nchen,0,0
+679,2006,Germany,18 June 2006,Group Stage,Matchday 10,Group F,Paraguay,Croatia,,,0,0,,,,,Draw,Draw,Frankenstadion,NÃ¼rnberg,0,0
+680,2006,Germany,22 June 2006,Group Stage,Matchday 14,Group F,Paraguay,Brazil,1,1,1,4,,,,,Brazil,Normal Time,Signal Iduna Park,Dortmund,0,0
+681,2006,Germany,22 June 2006,Group Stage,Matchday 14,Group F,Paraguay,Australia,1,1,2,2,,,,,Draw,Draw,Gottlieb-Daimler-Stadion,Stuttgart,0,0
+682,2006,Germany,13 June 2006,Group Stage,Matchday 5,Group G,Paraguay,Switzerland,,,0,0,,,,,Draw,Draw,Gottlieb-Daimler-Stadion,Stuttgart,0,0
+683,2006,Germany,13 June 2006,Group Stage,Matchday 5,Group G,Paraguay,Togo,0,1,2,1,,,,,South Korea,Normal Time,Commerzbank-Arena,Frankfurt,0,0
+684,2006,Germany,18 June 2006,Group Stage,Matchday 10,Group G,Paraguay,South Korea,1,0,1,1,,,,,Draw,Draw,Zentralstadion,Leipzig,0,0
+685,2006,Germany,19 June 2006,Group Stage,Matchday 11,Group G,Paraguay,Switzerland,0,1,0,2,,,,,Switzerland,Normal Time,Signal Iduna Park,Dortmund,0,0
+686,2006,Germany,23 June 2006,Group Stage,Matchday 15,Group G,Paraguay,France,0,0,0,2,,,,,France,Normal Time,RheinEnergieStadion,KÃ¶ln,0,0
+687,2006,Germany,23 June 2006,Group Stage,Matchday 15,Group G,Paraguay,South Korea,1,0,2,0,,,,,Switzerland,Normal Time,AWD-Arena,Hannover,0,0
+688,2006,Germany,14 June 2006,Group Stage,Matchday 6,Group H,Paraguay,Ukraine,2,0,4,0,,,,,Spain,Normal Time,Zentralstadion,Leipzig,0,0
+689,2006,Germany,14 June 2006,Group Stage,Matchday 6,Group H,Peru,Saudi Arabia,1,0,2,2,,,,,Draw,Draw,Allianz Arena,MÃ¼nchen,0,0
+690,2006,Germany,19 June 2006,Group Stage,Matchday 11,Group H,Peru,Tunisia,0,1,3,1,,,,,Spain,Normal Time,Gottlieb-Daimler-Stadion,Stuttgart,0,0
+691,2006,Germany,19 June 2006,Group Stage,Matchday 11,Group H,Peru,Ukraine,0,2,0,4,,,,,Ukraine,Normal Time,AOL Arena,Hamburg,0,0
+692,2006,Germany,23 June 2006,Group Stage,Matchday 15,Group H,Peru,Spain,0,1,0,1,,,,,Spain,Normal Time,Fritz-Walter-Stadion,Kaiserslautern,0,0
+693,2006,Germany,23 June 2006,Group Stage,Matchday 15,Group H,Peru,Tunisia,0,0,1,0,,,,,Ukraine,Normal Time,Olympiastadion,Berlin,0,0
+694,2006,Germany,24 June 2006,Round of 16,Round of 16,,Peru,Sweden,2,0,2,0,,,,,Germany,Normal Time,Allianz Arena,MÃ¼nchen,0,0
+695,2006,Germany,24 June 2006,Round of 16,Round of 16,,Peru,Mexico,1,1,1,1,2,1,,,Argentina,Extra Time,Zentralstadion,Leipzig,0,0
+696,2006,Germany,25 June 2006,Round of 16,Round of 16,,Peru,Ecuador,0,0,1,0,,,,,England,Normal Time,Gottlieb-Daimler-Stadion,Stuttgart,0,0
+697,2006,Germany,25 June 2006,Round of 16,Round of 16,,Peru,Netherlands,1,0,1,0,,,,,Portugal,Normal Time,Frankenstadion,NÃ¼rnberg,0,0
+698,2006,Germany,26 June 2006,Round of 16,Round of 16,,Poland,Australia,0,0,1,0,,,,,Italy,Normal Time,Fritz-Walter-Stadion,Kaiserslautern,0,0
+699,2006,Germany,26 June 2006,Round of 16,Round of 16,,Poland,Ukraine,,,0,0,0,0,0,3,Ukraine,Penalties,RheinEnergieStadion,KÃ¶ln,0,0
+700,2006,Germany,27 June 2006,Round of 16,Round of 16,,Poland,Ghana,2,0,3,0,,,,,Brazil,Normal Time,Signal Iduna Park,Dortmund,0,0
+701,2006,Germany,27 June 2006,Round of 16,Round of 16,,Poland,France,1,1,1,3,,,,,France,Normal Time,AWD-Arena,Hannover,0,0
+702,2006,Germany,30 June 2006,Quarter-final,Quarterfinals,,Poland,Argentina,0,0,1,1,1,1,4,2,Germany,Penalties,Olympiastadion,Berlin,0,0
+703,2006,Germany,30 June 2006,Quarter-final,Quarterfinals,,Poland,Ukraine,1,0,3,0,,,,,Italy,Normal Time,AOL Arena,Hamburg,0,0
+704,2006,Germany,01 July 2006,Quarter-final,Quarterfinals,,Poland,Portugal,,,0,0,0,0,1,3,Portugal,Penalties,Veltins-Arena,Gelsenkirchen,0,0
+705,2006,Germany,01 July 2006,Quarter-final,Quarterfinals,,Poland,France,0,0,0,1,,,,,France,Normal Time,Commerzbank-Arena,Frankfurt,0,0
+706,2006,Germany,04 July 2006,Semi-final,Semifinals,,Poland,Italy,,,0,0,0,2,,,Italy,Extra Time,Signal Iduna Park,Dortmund,0,2
+707,2006,Germany,05 July 2006,Semi-final,Semifinals,,Poland,France,0,1,0,1,,,,,France,Normal Time,Allianz Arena,MÃ¼nchen,0,1
+708,2006,Germany,08 July 2006,Third-place play-off,Third-place play-off,,Poland,Portugal,0,0,3,1,,,,,Germany,Normal Time,Gottlieb-Daimler-Stadion,Stuttgart,2,1
+709,2006,Germany,09 July 2006,Final,Final,,Poland,France,1,1,1,1,1,1,5,3,Italy,Penalties,Olympiastadion,Berlin,1,1
+710,2010,South Africa,11 June 2010,Group Stage,Matchday 1,Group A,Poland,Mexico,,,1,1,,,,,Draw,Draw,Soccer City,Johannesburg,0,0
+711,2010,South Africa,11 June 2010,Group Stage,Matchday 1,Group A,Poland,France,,,0,0,,,,,Draw,Draw,Cape Town Stadium,Cape Town,0,0
+712,2010,South Africa,16 June 2010,Group Stage,Matchday 6,Group A,Poland,Uruguay,,,0,3,,,,,Uruguay,Normal Time,Loftus Versfeld Stadium,Pretoria,0,0
+713,2010,South Africa,17 June 2010,Group Stage,Matchday 7,Group A,Poland,Mexico,,,0,2,,,,,Mexico,Normal Time,Peter Mokaba Stadium,Polokwane,0,0
+714,2010,South Africa,22 June 2010,Group Stage,Matchday 12,Group A,Poland,Uruguay,,,0,1,,,,,Uruguay,Normal Time,Royal Bafokeng Stadium,Rustenburg,0,0
+715,2010,South Africa,22 June 2010,Group Stage,Matchday 12,Group A,Poland,South Africa,,,1,2,,,,,South Africa,Normal Time,Free State Stadium,Bloemfontein,0,0
+716,2010,South Africa,12 June 2010,Group Stage,Matchday 2,Group B,Poland,Greece,,,2,0,,,,,South Korea,Normal Time,Nelson Mandela Bay Stadium,Port Elizabeth,0,0
+717,2010,South Africa,12 June 2010,Group Stage,Matchday 2,Group B,Portugal,Nigeria,,,1,0,,,,,Argentina,Normal Time,Ellis Park Stadium,Johannesburg,0,0
+718,2010,South Africa,17 June 2010,Group Stage,Matchday 7,Group B,Portugal,South Korea,,,4,1,,,,,Argentina,Normal Time,Soccer City,Johannesburg,0,0
+719,2010,South Africa,17 June 2010,Group Stage,Matchday 7,Group B,Portugal,Nigeria,,,2,1,,,,,Greece,Normal Time,Free State Stadium,Bloemfontein,0,0
+720,2010,South Africa,22 June 2010,Group Stage,Matchday 12,Group B,Portugal,South Korea,,,2,2,,,,,Draw,Draw,Moses Mabhida Stadium,Durban,0,0
+721,2010,South Africa,22 June 2010,Group Stage,Matchday 12,Group B,Portugal,Argentina,,,0,2,,,,,Argentina,Normal Time,Peter Mokaba Stadium,Polokwane,0,0
+722,2010,South Africa,12 June 2010,Group Stage,Matchday 2,Group C,Portugal,USA,,,1,1,,,,,Draw,Draw,Royal Bafokeng Stadium,Rustenburg,0,0
+723,2010,South Africa,13 June 2010,Group Stage,Matchday 3,Group C,Portugal,Slovenia,,,0,1,,,,,Slovenia,Normal Time,Peter Mokaba Stadium,Polokwane,0,0
+724,2010,South Africa,18 June 2010,Group Stage,Matchday 8,Group C,Portugal,USA,,,2,2,,,,,Draw,Draw,Ellis Park Stadium,Johannesburg,0,0
+725,2010,South Africa,18 June 2010,Group Stage,Matchday 8,Group C,Portugal,Algeria,,,0,0,,,,,Draw,Draw,Cape Town Stadium,Cape Town,0,0
+726,2010,South Africa,23 June 2010,Group Stage,Matchday 13,Group C,Portugal,Algeria,,,1,0,,,,,USA,Normal Time,Loftus Versfeld Stadium,Pretoria,0,0
+727,2010,South Africa,23 June 2010,Group Stage,Matchday 13,Group C,Portugal,England,,,0,1,,,,,England,Normal Time,Nelson Mandela Bay Stadium,Port Elizabeth,0,0
+728,2010,South Africa,13 June 2010,Group Stage,Matchday 3,Group D,Portugal,Ghana,,,0,1,,,,,Ghana,Normal Time,Loftus Versfeld Stadium,Pretoria,0,0
+729,2010,South Africa,13 June 2010,Group Stage,Matchday 3,Group D,Portugal,Australia,,,4,0,,,,,Germany,Normal Time,Moses Mabhida Stadium,Durban,0,0
+730,2010,South Africa,18 June 2010,Group Stage,Matchday 8,Group D,Portugal,Serbia,,,0,1,,,,,Serbia,Normal Time,Nelson Mandela Bay Stadium,Port Elizabeth,0,0
+731,2010,South Africa,19 June 2010,Group Stage,Matchday 9,Group D,Portugal,Australia,,,1,1,,,,,Draw,Draw,Royal Bafokeng Stadium,Rustenburg,0,0
+732,2010,South Africa,23 June 2010,Group Stage,Matchday 13,Group D,Portugal,Serbia,,,2,1,,,,,Australia,Normal Time,Mbombela Stadium,Nelspruit,0,0
+733,2010,South Africa,23 June 2010,Group Stage,Matchday 13,Group D,Portugal,Germany,,,0,1,,,,,Germany,Normal Time,Soccer City,Johannesburg,0,0
+734,2010,South Africa,14 June 2010,Group Stage,Matchday 4,Group E,Portugal,Denmark,,,2,0,,,,,Netherlands,Normal Time,Soccer City,Johannesburg,0,0
+735,2010,South Africa,14 June 2010,Group Stage,Matchday 4,Group E,Portugal,Cameroon,,,1,0,,,,,Japan,Normal Time,Free State Stadium,Bloemfontein,0,0
+736,2010,South Africa,19 June 2010,Group Stage,Matchday 9,Group E,Portugal,Japan,,,1,0,,,,,Netherlands,Normal Time,Moses Mabhida Stadium,Durban,0,0
+737,2010,South Africa,19 June 2010,Group Stage,Matchday 9,Group E,Portugal,Denmark,,,1,2,,,,,Denmark,Normal Time,Loftus Versfeld Stadium,Pretoria,0,0
+738,2010,South Africa,24 June 2010,Group Stage,Matchday 14,Group E,Portugal,Japan,,,1,3,,,,,Japan,Normal Time,Royal Bafokeng Stadium,Rustenburg,0,0
+739,2010,South Africa,24 June 2010,Group Stage,Matchday 14,Group E,Portugal,Netherlands,,,1,2,,,,,Netherlands,Normal Time,Cape Town Stadium,Cape Town,0,0
+740,2010,South Africa,14 June 2010,Group Stage,Matchday 4,Group F,Portugal,Paraguay,,,1,1,,,,,Draw,Draw,Cape Town Stadium,Cape Town,0,0
+741,2010,South Africa,15 June 2010,Group Stage,Matchday 5,Group F,Portugal,Slovakia,,,1,1,,,,,Draw,Draw,Royal Bafokeng Stadium,Rustenburg,0,0
+742,2010,South Africa,20 June 2010,Group Stage,Matchday 10,Group F,Qatar,Paraguay,,,0,2,,,,,Paraguay,Normal Time,Free State Stadium,Bloemfontein,0,0
+743,2010,South Africa,20 June 2010,Group Stage,Matchday 10,Group F,Qatar,New Zealand,,,1,1,,,,,Draw,Draw,Mbombela Stadium,Nelspruit,0,0
+744,2010,South Africa,24 June 2010,Group Stage,Matchday 14,Group F,Qatar,Italy,,,3,2,,,,,Slovakia,Normal Time,Ellis Park Stadium,Johannesburg,0,0
+745,2010,South Africa,24 June 2010,Group Stage,Matchday 14,Group F,Romania,New Zealand,,,0,0,,,,,Draw,Draw,Peter Mokaba Stadium,Polokwane,0,0
+746,2010,South Africa,15 June 2010,Group Stage,Matchday 5,Group G,Romania,Portugal,,,0,0,,,,,Draw,Draw,Nelson Mandela Bay Stadium,Port Elizabeth,0,0
+747,2010,South Africa,15 June 2010,Group Stage,Matchday 5,Group G,Romania,North Korea,,,2,1,,,,,Brazil,Normal Time,Ellis Park Stadium,Johannesburg,0,0
+748,2010,South Africa,20 June 2010,Group Stage,Matchday 10,Group G,Romania,CÃ´te d'Ivoire,,,3,1,,,,,Brazil,Normal Time,Soccer City,Johannesburg,0,0
+749,2010,South Africa,21 June 2010,Group Stage,Matchday 11,Group G,Romania,North Korea,,,7,0,,,,,Portugal,Normal Time,Cape Town Stadium,Cape Town,0,0
+750,2010,South Africa,25 June 2010,Group Stage,Matchday 15,Group G,Romania,Brazil,,,0,0,,,,,Draw,Draw,Moses Mabhida Stadium,Durban,0,0
+751,2010,South Africa,25 June 2010,Group Stage,Matchday 15,Group G,Romania,CÃ´te d'Ivoire,,,0,3,,,,,CÃ´te d'Ivoire,Normal Time,Mbombela Stadium,Nelspruit,0,0
+752,2010,South Africa,16 June 2010,Group Stage,Matchday 6,Group H,Romania,Chile,,,0,1,,,,,Chile,Normal Time,Mbombela Stadium,Nelspruit,0,0
+753,2010,South Africa,16 June 2010,Group Stage,Matchday 6,Group H,Romania,Switzerland,,,0,1,,,,,Switzerland,Normal Time,Moses Mabhida Stadium,Durban,0,0
+754,2010,South Africa,21 June 2010,Group Stage,Matchday 11,Group H,Romania,Switzerland,,,1,0,,,,,Chile,Normal Time,Nelson Mandela Bay Stadium,Port Elizabeth,0,0
+755,2010,South Africa,21 June 2010,Group Stage,Matchday 11,Group H,Romania,Honduras,,,2,0,,,,,Spain,Normal Time,Ellis Park Stadium,Johannesburg,0,0
+756,2010,South Africa,25 June 2010,Group Stage,Matchday 15,Group H,Russia,Spain,,,1,2,,,,,Spain,Normal Time,Loftus Versfeld Stadium,Pretoria,0,0
+757,2010,South Africa,25 June 2010,Group Stage,Matchday 15,Group H,Russia,Honduras,,,0,0,,,,,Draw,Draw,Free State Stadium,Bloemfontein,0,0
+758,2010,South Africa,26 June 2010,Round of 16,Round of 16,,Russia,South Korea,,,2,1,,,,,Uruguay,Normal Time,Nelson Mandela Bay Stadium,Port Elizabeth,0,0
+759,2010,South Africa,26 June 2010,Round of 16,Round of 16,,Russia,Ghana,,,1,1,1,2,,,Ghana,Extra Time,Royal Bafokeng Stadium,Rustenburg,0,0
+760,2010,South Africa,27 June 2010,Round of 16,Round of 16,,Russia,England,,,4,1,,,,,Germany,Normal Time,Free State Stadium,Bloemfontein,0,0
+761,2010,South Africa,27 June 2010,Round of 16,Round of 16,,Russia,Mexico,,,3,1,,,,,Argentina,Normal Time,Soccer City,Johannesburg,0,0
+762,2010,South Africa,28 June 2010,Round of 16,Round of 16,,Saudi Arabia,Slovakia,,,2,1,,,,,Netherlands,Normal Time,Moses Mabhida Stadium,Durban,0,0
+763,2010,South Africa,28 June 2010,Round of 16,Round of 16,,Saudi Arabia,Chile,,,3,0,,,,,Brazil,Normal Time,Ellis Park Stadium,Johannesburg,0,0
+764,2010,South Africa,29 June 2010,Round of 16,Round of 16,,Saudi Arabia,Japan,,,0,0,0,0,5,3,Paraguay,Penalties,Loftus Versfeld Stadium,Pretoria,0,0
+765,2010,South Africa,29 June 2010,Round of 16,Round of 16,,Saudi Arabia,Portugal,,,1,0,,,,,Spain,Normal Time,Cape Town Stadium,Cape Town,0,0
+766,2010,South Africa,02 July 2010,Quarter-final,Quarterfinals,,Saudi Arabia,Brazil,,,2,1,,,,,Netherlands,Normal Time,Nelson Mandela Bay Stadium,Port Elizabeth,0,0
+767,2010,South Africa,02 July 2010,Quarter-final,Quarterfinals,,Saudi Arabia,Ghana,,,1,1,1,1,4,2,Uruguay,Penalties,Soccer City,Johannesburg,0,0
+768,2010,South Africa,03 July 2010,Quarter-final,Quarterfinals,,Saudi Arabia,Germany,,,0,4,,,,,Germany,Normal Time,Cape Town Stadium,Cape Town,0,0
+769,2010,South Africa,03 July 2010,Quarter-final,Quarterfinals,,Saudi Arabia,Spain,,,0,1,,,,,Spain,Normal Time,Ellis Park Stadium,Johannesburg,0,0
+770,2010,South Africa,06 July 2010,Semi-final,Semifinals,,Saudi Arabia,Netherlands,,,2,3,,,,,Netherlands,Normal Time,Cape Town Stadium,Cape Town,0,0
+771,2010,South Africa,07 July 2010,Semi-final,Semifinals,,Scotland,Spain,,,0,1,,,,,Spain,Normal Time,Moses Mabhida Stadium,Durban,0,0
+772,2010,South Africa,10 July 2010,Third-place play-off,Third-place play-off,,Scotland,Germany,,,2,3,,,,,Germany,Normal Time,Nelson Mandela Bay Stadium,Port Elizabeth,0,0
+773,2010,South Africa,11 July 2010,Final,Final,,Scotland,Spain,,,0,0,0,1,,,Spain,Extra Time,Soccer City,Johannesburg,0,0
+774,2014,Brazil,12 June 2014,Group Stage,Matchday 1,Group A,Scotland,Croatia,1,1,3,1,,,,,Brazil,Normal Time,Arena de SÃ£o Paulo,SÃ£o Paulo,3,0
+775,2014,Brazil,13 June 2014,Group Stage,Matchday 2,Group A,Scotland,Cameroon,0,0,1,0,,,,,Mexico,Normal Time,EstÃ¡dio das Dunas,Natal,1,0
+776,2014,Brazil,17 June 2014,Group Stage,Matchday 6,Group A,Scotland,Mexico,,,0,0,,,,,Draw,Draw,EstÃ¡dio CastelÃ£o,Fortaleza,0,0
+777,2014,Brazil,18 June 2014,Group Stage,Matchday 7,Group A,Scotland,Croatia,,,0,4,,,,,Croatia,Normal Time,Arena AmazÃ´nia,Manaus,0,4
+778,2014,Brazil,23 June 2014,Group Stage,Matchday 12,Group A,Scotland,Brazil,,,1,4,,,,,Brazil,Normal Time,EstÃ¡dio Nacional ManÃ© Garrincha,BrasÃ­lia,1,4
+779,2014,Brazil,23 June 2014,Group Stage,Matchday 12,Group A,Scotland,Mexico,,,1,3,,,,,Mexico,Normal Time,Arena Pernambuco,Recife,1,3
+780,2014,Brazil,13 June 2014,Group Stage,Matchday 2,Group B,Scotland,Netherlands,1,1,1,5,,,,,Netherlands,Normal Time,Arena Fonte Nova,Salvador,1,5
+781,2014,Brazil,13 June 2014,Group Stage,Matchday 2,Group B,Scotland,Australia,2,1,3,1,,,,,Chile,Normal Time,Arena Pantanal,CuiabÃ¡,3,1
+782,2014,Brazil,18 June 2014,Group Stage,Matchday 7,Group B,Senegal,Netherlands,,,2,3,,,,,Netherlands,Normal Time,EstÃ¡dio Beira-Rio,Porto Alegre,2,3
+783,2014,Brazil,18 June 2014,Group Stage,Matchday 7,Group B,Senegal,Chile,,,0,2,,,,,Chile,Normal Time,EstÃ¡dio do MaracanÃ£,Rio de Janeiro,0,2
+784,2014,Brazil,23 June 2014,Group Stage,Matchday 12,Group B,Senegal,Spain,,,0,3,,,,,Spain,Normal Time,Arena da Baixada,Curitiba,0,3
+785,2014,Brazil,23 June 2014,Group Stage,Matchday 12,Group B,Senegal,Chile,,,2,0,,,,,Netherlands,Normal Time,Arena de SÃ£o Paulo,SÃ£o Paulo,2,0
+786,2014,Brazil,14 June 2014,Group Stage,Matchday 3,Group C,Senegal,Greece,,,3,0,,,,,Colombia,Normal Time,EstÃ¡dio MineirÃ£o,Belo Horizonte,3,0
+787,2014,Brazil,14 June 2014,Group Stage,Matchday 3,Group C,Serbia,Japan,,,2,1,,,,,CÃ´te d'Ivoire,Normal Time,Arena Pernambuco,Recife,2,1
+788,2014,Brazil,19 June 2014,Group Stage,Matchday 8,Group C,Serbia,CÃ´te d'Ivoire,,,2,1,,,,,Colombia,Normal Time,EstÃ¡dio Nacional ManÃ© Garrincha,BrasÃ­lia,2,1
+789,2014,Brazil,19 June 2014,Group Stage,Matchday 8,Group C,Serbia,Greece,,,0,0,,,,,Draw,Draw,EstÃ¡dio das Dunas,Natal,0,0
+790,2014,Brazil,24 June 2014,Group Stage,Matchday 13,Group C,Serbia,Colombia,,,1,4,,,,,Colombia,Normal Time,Arena Pantanal,CuiabÃ¡,1,4
+791,2014,Brazil,24 June 2014,Group Stage,Matchday 13,Group C,Serbia and Montenegro,CÃ´te d'Ivoire,,,2,1,,,,,Greece,Normal Time,EstÃ¡dio CastelÃ£o,Fortaleza,2,1
+792,2014,Brazil,14 June 2014,Group Stage,Matchday 3,Group D,Slovakia,Costa Rica,,,1,3,,,,,Costa Rica,Normal Time,EstÃ¡dio CastelÃ£o,Fortaleza,1,3
+793,2014,Brazil,14 June 2014,Group Stage,Matchday 3,Group D,Slovakia,Italy,,,1,2,,,,,Italy,Normal Time,Arena AmazÃ´nia,Manaus,1,2
+794,2014,Brazil,19 June 2014,Group Stage,Matchday 8,Group D,Slovenia,England,,,2,1,,,,,Uruguay,Normal Time,Arena de SÃ£o Paulo,SÃ£o Paulo,2,1
+795,2014,Brazil,20 June 2014,Group Stage,Matchday 9,Group D,Slovenia,Costa Rica,,,0,1,,,,,Costa Rica,Normal Time,Arena Pernambuco,Recife,0,1
+796,2014,Brazil,24 June 2014,Group Stage,Matchday 13,Group D,Slovenia,Uruguay,,,0,1,,,,,Uruguay,Normal Time,EstÃ¡dio das Dunas,Natal,0,1
+797,2014,Brazil,24 June 2014,Group Stage,Matchday 13,Group D,South Africa,England,,,0,0,,,,,Draw,Draw,EstÃ¡dio MineirÃ£o,Belo Horizonte,0,0
+798,2014,Brazil,15 June 2014,Group Stage,Matchday 4,Group E,South Africa,Ecuador,,,2,1,,,,,Switzerland,Normal Time,EstÃ¡dio Nacional ManÃ© Garrincha,BrasÃ­lia,2,1
+799,2014,Brazil,15 June 2014,Group Stage,Matchday 4,Group E,South Africa,Honduras,,,3,0,,,,,France,Normal Time,EstÃ¡dio Beira-Rio,Porto Alegre,2,0
+800,2014,Brazil,20 June 2014,Group Stage,Matchday 9,Group E,South Africa,France,,,2,5,,,,,France,Normal Time,Arena Fonte Nova,Salvador,2,5
+801,2014,Brazil,20 June 2014,Group Stage,Matchday 9,Group E,South Africa,Ecuador,,,1,2,,,,,Ecuador,Normal Time,Arena da Baixada,Curitiba,1,2
+802,2014,Brazil,25 June 2014,Group Stage,Matchday 14,Group E,South Africa,Switzerland,,,0,3,,,,,Switzerland,Normal Time,Arena AmazÃ´nia,Manaus,0,3
+803,2014,Brazil,25 June 2014,Group Stage,Matchday 14,Group E,South Africa,France,,,0,0,,,,,Draw,Draw,EstÃ¡dio do MaracanÃ£,Rio de Janeiro,0,0
+804,2014,Brazil,15 June 2014,Group Stage,Matchday 4,Group F,South Africa,Bosnia-Herzegovina,,,2,1,,,,,Argentina,Normal Time,EstÃ¡dio do MaracanÃ£,Rio de Janeiro,1,1
+805,2014,Brazil,16 June 2014,Group Stage,Matchday 5,Group F,South Korea,Nigeria,,,0,0,,,,,Draw,Draw,Arena da Baixada,Curitiba,0,0
+806,2014,Brazil,21 June 2014,Group Stage,Matchday 10,Group F,South Korea,Iran,,,1,0,,,,,Argentina,Normal Time,EstÃ¡dio MineirÃ£o,Belo Horizonte,1,0
+807,2014,Brazil,21 June 2014,Group Stage,Matchday 10,Group F,South Korea,Bosnia-Herzegovina,,,1,0,,,,,Nigeria,Normal Time,Arena Pantanal,CuiabÃ¡,1,0
+808,2014,Brazil,25 June 2014,Group Stage,Matchday 14,Group F,South Korea,Argentina,,,2,3,,,,,Argentina,Normal Time,EstÃ¡dio Beira-Rio,Porto Alegre,2,3
+809,2014,Brazil,25 June 2014,Group Stage,Matchday 14,Group F,South Korea,Iran,,,3,1,,,,,Bosnia-Herzegovina,Normal Time,Arena Fonte Nova,Salvador,3,1
+810,2014,Brazil,16 June 2014,Group Stage,Matchday 5,Group G,South Korea,Portugal,,,4,0,,,,,Germany,Normal Time,Arena Fonte Nova,Salvador,4,0
+811,2014,Brazil,16 June 2014,Group Stage,Matchday 5,Group G,South Korea,USA,,,1,2,,,,,USA,Normal Time,EstÃ¡dio das Dunas,Natal,1,2
+812,2014,Brazil,21 June 2014,Group Stage,Matchday 10,Group G,South Korea,Ghana,,,2,2,,,,,Draw,Draw,EstÃ¡dio CastelÃ£o,Fortaleza,2,2
+813,2014,Brazil,22 June 2014,Group Stage,Matchday 11,Group G,South Korea,Portugal,,,2,2,,,,,Draw,Draw,Arena AmazÃ´nia,Manaus,2,2
+814,2014,Brazil,26 June 2014,Group Stage,Matchday 15,Group G,South Korea,Germany,,,0,1,,,,,Germany,Normal Time,Arena Pernambuco,Recife,0,1
+815,2014,Brazil,26 June 2014,Group Stage,Matchday 15,Group G,South Korea,Ghana,,,2,1,,,,,Portugal,Normal Time,EstÃ¡dio Nacional ManÃ© Garrincha,BrasÃ­lia,1,1
+816,2014,Brazil,17 June 2014,Group Stage,Matchday 6,Group H,South Korea,Algeria,,,2,1,,,,,Belgium,Normal Time,EstÃ¡dio MineirÃ£o,Belo Horizonte,2,1
+817,2014,Brazil,17 June 2014,Group Stage,Matchday 6,Group H,South Korea,South Korea,,,1,1,,,,,Draw,Draw,Arena Pantanal,CuiabÃ¡,1,1
+818,2014,Brazil,22 June 2014,Group Stage,Matchday 11,Group H,South Korea,Russia,,,1,0,,,,,Belgium,Normal Time,EstÃ¡dio do MaracanÃ£,Rio de Janeiro,1,0
+819,2014,Brazil,22 June 2014,Group Stage,Matchday 11,Group H,South Korea,Algeria,,,2,4,,,,,Algeria,Normal Time,EstÃ¡dio Beira-Rio,Porto Alegre,2,4
+820,2014,Brazil,26 June 2014,Group Stage,Matchday 15,Group H,South Korea,Belgium,,,0,1,,,,,Belgium,Normal Time,Arena de SÃ£o Paulo,SÃ£o Paulo,0,1
+821,2014,Brazil,26 June 2014,Group Stage,Matchday 15,Group H,South Korea,Russia,,,1,1,,,,,Draw,Draw,Arena da Baixada,Curitiba,1,1
+822,2014,Brazil,28 June 2014,Round of 16,Round of 16,,South Korea,Chile,1,1,1,1,1,1,3,2,Brazil,Penalties,EstÃ¡dio MineirÃ£o,Belo Horizonte,1,1
+823,2014,Brazil,28 June 2014,Round of 16,Round of 16,,South Korea,Uruguay,1,0,2,0,,,,,Colombia,Normal Time,EstÃ¡dio do MaracanÃ£,Rio de Janeiro,2,0
+824,2014,Brazil,29 June 2014,Round of 16,Round of 16,,Soviet Union,Mexico,0,0,2,1,,,,,Netherlands,Normal Time,EstÃ¡dio CastelÃ£o,Fortaleza,2,1
+825,2014,Brazil,29 June 2014,Round of 16,Round of 16,,Soviet Union,Greece,0,0,1,1,1,1,5,3,Costa Rica,Penalties,Arena Pernambuco,Recife,1,1
+826,2014,Brazil,30 June 2014,Round of 16,Round of 16,,Soviet Union,Nigeria,0,0,2,0,,,,,France,Normal Time,EstÃ¡dio Nacional ManÃ© Garrincha,BrasÃ­lia,1,0
+827,2014,Brazil,30 June 2014,Round of 16,Round of 16,,Soviet Union,Algeria,0,0,0,0,2,1,,,Germany,Extra Time,EstÃ¡dio Beira-Rio,Porto Alegre,2,1
+828,2014,Brazil,01 July 2014,Round of 16,Round of 16,,Soviet Union,Switzerland,0,0,0,0,1,0,,,Argentina,Extra Time,Arena de SÃ£o Paulo,SÃ£o Paulo,1,0
+829,2014,Brazil,01 July 2014,Round of 16,Round of 16,,Soviet Union,USA,0,0,0,0,2,1,,,Belgium,Extra Time,Arena Fonte Nova,Salvador,2,1
+830,2014,Brazil,04 July 2014,Quarter-final,Quarter-finals,,Soviet Union,Germany,0,1,0,1,,,,,Germany,Normal Time,EstÃ¡dio do MaracanÃ£,Rio de Janeiro,0,1
+831,2014,Brazil,04 July 2014,Quarter-final,Quarter-finals,,Soviet Union,Colombia,1,0,2,1,,,,,Brazil,Normal Time,EstÃ¡dio CastelÃ£o,Fortaleza,2,1
+832,2014,Brazil,05 July 2014,Quarter-final,Quarter-finals,,Soviet Union,Belgium,1,0,1,0,,,,,Argentina,Normal Time,EstÃ¡dio Nacional ManÃ© Garrincha,BrasÃ­lia,1,0
+833,2014,Brazil,05 July 2014,Quarter-final,Quarter-finals,,Soviet Union,Costa Rica,0,0,0,0,0,0,4,3,Netherlands,Penalties,Arena Fonte Nova,Salvador,0,0
+834,2014,Brazil,08 July 2014,Semi-final,Semi-finals,,Soviet Union,Germany,0,5,1,7,,,,,Germany,Normal Time,EstÃ¡dio MineirÃ£o,Belo Horizonte,1,7
+835,2014,Brazil,09 July 2014,Semi-final,Semi-finals,,Soviet Union,Argentina,0,0,0,0,0,0,2,4,Argentina,Penalties,Arena de SÃ£o Paulo,SÃ£o Paulo,0,0
+836,2014,Brazil,12 July 2014,Third Place Play-off,Match for third place,,Soviet Union,Netherlands,0,2,0,3,,,,,Netherlands,Normal Time,EstÃ¡dio Nacional ManÃ© Garrincha,BrasÃ­lia,0,3
+837,2014,Brazil,13 July 2014,Final,Final,,Soviet Union,Argentina,0,0,0,0,1,0,,,Germany,Extra Time,EstÃ¡dio do MaracanÃ£,Rio de Janeiro,1,0
+838,2018,Russia,14 June 2018,Group Stage,Matchday 1,Group A,Soviet Union,Saudi Arabia,2,0,5,0,,,,,Russia,Normal Time,Luzhniki Stadium,Moscow,5,0
+839,2018,Russia,15 June 2018,Group Stage,Matchday 2,Group A,Soviet Union,Uruguay,0,0,0,1,,,,,Uruguay,Normal Time,Ekaterinburg Arena,Ekaterinburg,0,1
+840,2018,Russia,19 June 2018,Group Stage,Matchday 6,Group A,Soviet Union,Egypt,0,0,3,1,,,,,Russia,Normal Time,Saint Petersburg Stadium,Saint Petersburg,2,1
+841,2018,Russia,20 June 2018,Group Stage,Matchday 7,Group A,Soviet Union,Saudi Arabia,1,0,1,0,,,,,Uruguay,Normal Time,Rostov Arena,Rostov-on-Don,1,0
+842,2018,Russia,25 June 2018,Group Stage,Matchday 12,Group A,Soviet Union,Russia,2,0,3,0,,,,,Uruguay,Normal Time,Samara Arena,Samara,2,0
+843,2018,Russia,25 June 2018,Group Stage,Matchday 12,Group A,Soviet Union,Egypt,1,1,2,1,,,,,Saudi Arabia,Normal Time,Volgograd Arena,Volgograd,2,1
+844,2018,Russia,15 June 2018,Group Stage,Matchday 2,Group B,Spain,Iran,0,0,0,1,,,,,Iran,Normal Time,Saint Petersburg Stadium,Saint Petersburg,0,0
+845,2018,Russia,15 June 2018,Group Stage,Matchday 2,Group B,Spain,Spain,2,1,3,3,,,,,Draw,Draw,Fisht Stadium,Sochi,3,3
+846,2018,Russia,20 June 2018,Group Stage,Matchday 7,Group B,Spain,Morocco,1,0,1,0,,,,,Portugal,Normal Time,Luzhniki Stadium,Moscow,1,0
+847,2018,Russia,20 June 2018,Group Stage,Matchday 7,Group B,Spain,Spain,0,0,0,1,,,,,Spain,Normal Time,Kazan Arena,Kazan,0,1
+848,2018,Russia,25 June 2018,Group Stage,Matchday 12,Group B,Spain,Portugal,0,1,1,1,,,,,Draw,Draw,Mordovia Arena,Saransk,1,1
+849,2018,Russia,25 June 2018,Group Stage,Matchday 12,Group B,Spain,Morocco,1,1,2,2,,,,,Draw,Draw,Kaliningrad Stadium,Kaliningrad,2,2
+850,2018,Russia,16 June 2018,Group Stage,Matchday 3,Group C,Spain,Australia,0,0,2,1,,,,,France,Normal Time,Kazan Arena,Kazan,1,1
+851,2018,Russia,16 June 2018,Group Stage,Matchday 3,Group C,Spain,Denmark,0,0,0,1,,,,,Denmark,Normal Time,Mordovia Arena,Saransk,0,1
+852,2018,Russia,21 June 2018,Group Stage,Matchday 8,Group C,Spain,Australia,1,1,1,1,,,,,Draw,Draw,Samara Arena,Samara,1,1
+853,2018,Russia,21 June 2018,Group Stage,Matchday 8,Group C,Spain,Peru,1,0,1,0,,,,,France,Normal Time,Ekaterinburg Arena,Ekaterinburg,1,0
+854,2018,Russia,26 June 2018,Group Stage,Matchday 13,Group C,Spain,France,0,0,0,0,,,,,Draw,Draw,Luzhniki Stadium,Moscow,0,0
+855,2018,Russia,26 June 2018,Group Stage,Matchday 13,Group C,Spain,Peru,0,1,0,2,,,,,Peru,Normal Time,Fisht Stadium,Sochi,0,2
+856,2018,Russia,16 June 2018,Group Stage,Matchday 3,Group D,Spain,Iceland,1,1,1,1,,,,,Draw,Draw,Spartak Stadium,Moscow,1,1
+857,2018,Russia,16 June 2018,Group Stage,Matchday 3,Group D,Spain,Nigeria,1,0,2,0,,,,,Croatia,Normal Time,Kaliningrad Stadium,Kaliningrad,1,0
+858,2018,Russia,21 June 2018,Group Stage,Matchday 8,Group D,Spain,Croatia,0,0,0,3,,,,,Croatia,Normal Time,Nizhny Novgorod Stadium,Nizhny Novgorod,0,3
+859,2018,Russia,22 June 2018,Group Stage,Matchday 9,Group D,Spain,Iceland,0,0,2,0,,,,,Nigeria,Normal Time,Volgograd Arena,Volgograd,2,0
+860,2018,Russia,26 June 2018,Group Stage,Matchday 13,Group D,Spain,Argentina,0,1,1,2,,,,,Argentina,Normal Time,Saint Petersburg Stadium,Saint Petersburg,1,2
+861,2018,Russia,26 June 2018,Group Stage,Matchday 13,Group D,Spain,Croatia,0,0,1,2,,,,,Croatia,Normal Time,Rostov Arena,Rostov-on-Don,1,2
+862,2018,Russia,17 June 2018,Group Stage,Matchday 4,Group E,Spain,Serbia,0,0,0,1,,,,,Serbia,Normal Time,Samara Arena,Samara,0,1
+863,2018,Russia,17 June 2018,Group Stage,Matchday 4,Group E,Spain,Switzerland,1,0,1,1,,,,,Draw,Draw,Rostov Arena,Rostov-on-Don,1,1
+864,2018,Russia,22 June 2018,Group Stage,Matchday 9,Group E,Spain,Costa Rica,0,0,2,0,,,,,Brazil,Normal Time,Saint Petersburg Stadium,Saint Petersburg,2,0
+865,2018,Russia,22 June 2018,Group Stage,Matchday 9,Group E,Spain,Switzerland,1,0,1,2,,,,,Switzerland,Normal Time,Kaliningrad Stadium,Kaliningrad,1,2
+866,2018,Russia,27 June 2018,Group Stage,Matchday 14,Group E,Spain,Brazil,0,1,0,2,,,,,Brazil,Normal Time,Spartak Stadium,Moscow,0,2
+867,2018,Russia,27 June 2018,Group Stage,Matchday 14,Group E,Spain,Costa Rica,1,0,2,2,,,,,Draw,Draw,Nizhny Novgorod Stadium,Nizhny Novgorod,2,1
+868,2018,Russia,17 June 2018,Group Stage,Matchday 4,Group F,Spain,Mexico,0,1,0,1,,,,,Mexico,Normal Time,Luzhniki Stadium,Moscow,0,1
+869,2018,Russia,18 June 2018,Group Stage,Matchday 5,Group F,Spain,South Korea,0,0,1,0,,,,,Sweden,Normal Time,Nizhny Novgorod Stadium,Nizhny Novgorod,1,0
+870,2018,Russia,23 June 2018,Group Stage,Matchday 10,Group F,Spain,Mexico,0,1,1,2,,,,,Mexico,Normal Time,Rostov Arena,Rostov-on-Don,1,2
+871,2018,Russia,23 June 2018,Group Stage,Matchday 10,Group F,Spain,Sweden,0,1,2,1,,,,,Germany,Normal Time,Fisht Stadium,Sochi,2,1
+872,2018,Russia,27 June 2018,Group Stage,Matchday 14,Group F,Spain,Germany,0,0,2,0,,,,,South Korea,Normal Time,Kazan Arena,Kazan,2,0
+873,2018,Russia,27 June 2018,Group Stage,Matchday 14,Group F,Spain,Sweden,0,0,0,3,,,,,Sweden,Normal Time,Ekaterinburg Arena,Ekaterinburg,0,2
+874,2018,Russia,18 June 2018,Group Stage,Matchday 5,Group G,Spain,Panama,0,0,3,0,,,,,Belgium,Normal Time,Fisht Stadium,Sochi,3,0
+875,2018,Russia,18 June 2018,Group Stage,Matchday 5,Group G,Spain,England,1,1,1,2,,,,,England,Normal Time,Volgograd Arena,Volgograd,1,2
+876,2018,Russia,23 June 2018,Group Stage,Matchday 10,Group G,Spain,Tunisia,3,1,5,2,,,,,Belgium,Normal Time,Spartak Stadium,Moscow,5,2
+877,2018,Russia,24 June 2018,Group Stage,Matchday 11,Group G,Spain,Panama,5,0,6,1,,,,,England,Normal Time,Nizhny Novgorod Stadium,Nizhny Novgorod,6,1
+878,2018,Russia,28 June 2018,Group Stage,Matchday 15,Group G,Spain,Belgium,0,0,0,1,,,,,Belgium,Normal Time,Kaliningrad Stadium,Kaliningrad,0,1
+879,2018,Russia,28 June 2018,Group Stage,Matchday 15,Group G,Spain,Tunisia,1,0,1,2,,,,,Tunisia,Normal Time,Mordovia Arena,Saransk,0,2
+880,2018,Russia,19 June 2018,Group Stage,Matchday 6,Group H,Spain,Japan,1,1,1,2,,,,,Japan,Normal Time,Mordovia Arena,Saransk,1,2
+881,2018,Russia,19 June 2018,Group Stage,Matchday 6,Group H,Spain,Senegal,0,1,1,2,,,,,Senegal,Normal Time,Spartak Stadium,Moscow,1,1
+882,2018,Russia,24 June 2018,Group Stage,Matchday 11,Group H,Spain,Senegal,1,1,2,2,,,,,Draw,Draw,Ekaterinburg Arena,Ekaterinburg,2,2
+883,2018,Russia,24 June 2018,Group Stage,Matchday 11,Group H,Spain,Colombia,0,1,0,3,,,,,Colombia,Normal Time,Kazan Arena,Kazan,0,3
+884,2018,Russia,28 June 2018,Group Stage,Matchday 15,Group H,Sweden,Poland,0,1,0,1,,,,,Poland,Normal Time,Volgograd Arena,Volgograd,0,1
+885,2018,Russia,28 June 2018,Group Stage,Matchday 15,Group H,Sweden,Colombia,0,1,0,1,,,,,Colombia,Normal Time,Samara Arena,Samara,0,1
+886,2018,Russia,30 June 2018,Round of 16,Round of 16,,Sweden,Argentina,1,1,4,3,,,,,France,Normal Time,Kazan Arena,Kazan,4,3
+887,2018,Russia,30 June 2018,Round of 16,Round of 16,,Sweden,Portugal,1,0,2,1,,,,,Uruguay,Normal Time,Fisht Stadium,Sochi,2,1
+888,2018,Russia,01 July 2018,Round of 16,Round of 16,,Sweden,Russia,1,1,1,1,1,1,3,4,Russia,Penalties,Luzhniki Stadium,Moscow,0,1
+889,2018,Russia,01 July 2018,Round of 16,Round of 16,,Sweden,Denmark,1,1,1,1,1,1,3,2,Croatia,Penalties,Nizhny Novgorod Stadium,Nizhny Novgorod,1,1
+890,2018,Russia,02 July 2018,Round of 16,Round of 16,,Sweden,Mexico,0,0,2,0,,,,,Brazil,Normal Time,Samara Arena,Samara,2,0
+891,2018,Russia,02 July 2018,Round of 16,Round of 16,,Sweden,Japan,0,0,3,2,,,,,Belgium,Normal Time,Rostov Arena,Rostov-on-Don,3,2
+892,2018,Russia,03 July 2018,Round of 16,Round of 16,,Sweden,Switzerland,0,0,1,0,,,,,Sweden,Normal Time,Saint Petersburg Stadium,Saint Petersburg,1,0
+893,2018,Russia,03 July 2018,Round of 16,Round of 16,,Sweden,England,0,0,1,1,1,1,3,4,England,Penalties,Spartak Stadium,Moscow,1,1
+894,2018,Russia,06 July 2018,Quarter-final,Quarter-finals,,Sweden,France,0,1,0,2,,,,,France,Normal Time,Nizhny Novgorod Stadium,Nizhny Novgorod,0,2
+895,2018,Russia,06 July 2018,Quarter-final,Quarter-finals,,Sweden,Belgium,0,2,1,2,,,,,Belgium,Normal Time,Kazan Arena,Kazan,1,1
+896,2018,Russia,07 July 2018,Quarter-final,Quarter-finals,,Sweden,England,0,1,0,2,,,,,England,Normal Time,Samara Arena,Samara,0,2
+897,2018,Russia,07 July 2018,Quarter-final,Quarter-finals,,Sweden,Croatia,1,1,1,1,2,2,3,4,Croatia,Penalties,Fisht Stadium,Sochi,2,2
+898,2018,Russia,10 July 2018,Semi-final,Semi-finals,,Sweden,Belgium,0,0,1,0,,,,,France,Normal Time,Saint Petersburg Stadium,St. Petersburg,1,0
+899,2018,Russia,11 July 2018,Semi-final,Semi-finals,,Sweden,England,0,1,1,1,2,1,,,Croatia,Extra Time,Luzhniki Stadium,Moscow,2,1
+900,2018,Russia,14 July 2018,Third Place Play-off,Match for third place,,Sweden,England,1,0,2,0,,,,,Belgium,Normal Time,Saint Petersburg Stadium,St. Petersburg,2,0
+901,2018,Russia,15 July 2018,Final,Final,,Sweden,Croatia,2,1,4,2,,,,,France,Normal Time,Luzhniki Stadium,Moscow,3,2
+902,2022,Qatar,20 November 2022,Group Stage,Matchday 1,Group A,Sweden,Ecuador,0,2,0,2,,,,,Ecuador,Normal Time,Al Bayt Stadium,Al Khor,0,2
+903,2022,Qatar,21 November 2022,Group Stage,Matchday 2,Group A,Sweden,Netherlands,0,0,0,2,,,,,Netherlands,Normal Time,Al Thumama Stadium,Doha,0,2
+904,2022,Qatar,25 November 2022,Group Stage,Matchday 6,Group A,Sweden,Senegal,0,1,1,3,,,,,Senegal,Normal Time,Al Thumama Stadium,Doha,1,3
+905,2022,Qatar,25 November 2022,Group Stage,Matchday 6,Group A,Sweden,Ecuador,1,0,1,1,,,,,Draw,Draw,Khalifa International Stadium,Al Rayyan,1,1
+906,2022,Qatar,29 November 2022,Group Stage,Matchday 10,Group A,Sweden,Senegal,0,1,1,2,,,,,Senegal,Normal Time,Khalifa International Stadium,Al Rayyan,1,2
+907,2022,Qatar,29 November 2022,Group Stage,Matchday 10,Group A,Sweden,Qatar,1,0,2,0,,,,,Netherlands,Normal Time,Al Bayt Stadium,Al Khor,2,0
+908,2022,Qatar,21 November 2022,Group Stage,Matchday 2,Group B,Sweden,Iran,3,0,6,2,,,,,England,Normal Time,Khalifa International Stadium,Al Rayyan,6,2
+909,2022,Qatar,21 November 2022,Group Stage,Matchday 2,Group B,Sweden,Wales,1,0,1,1,,,,,Draw,Draw,Ahmad bin Ali Stadium,Al Rayyan,1,1
+910,2022,Qatar,25 November 2022,Group Stage,Matchday 6,Group B,Sweden,Iran,0,0,0,2,,,,,Iran,Normal Time,Ahmad bin Ali Stadium,Al Rayyan,0,2
+911,2022,Qatar,25 November 2022,Group Stage,Matchday 6,Group B,Sweden,USA,,,0,0,,,,,Draw,Draw,Al Bayt Stadium,Al Khor,0,0
+912,2022,Qatar,29 November 2022,Group Stage,Matchday 10,Group B,Sweden,England,0,0,0,3,,,,,England,Normal Time,Ahmad bin Ali Stadium,Al Rayyan,0,3
+913,2022,Qatar,29 November 2022,Group Stage,Matchday 10,Group B,Sweden,USA,0,1,0,1,,,,,USA,Normal Time,Al Thumama Stadium,Doha,0,1
+914,2022,Qatar,22 November 2022,Group Stage,Matchday 3,Group C,Sweden,Saudi Arabia,1,0,1,2,,,,,Saudi Arabia,Normal Time,Lusail Iconic Stadium,Lusail,1,2
+915,2022,Qatar,22 November 2022,Group Stage,Matchday 3,Group C,Switzerland,Poland,,,0,0,,,,,Draw,Draw,Stadium 974,Doha,0,0
+916,2022,Qatar,26 November 2022,Group Stage,Matchday 7,Group C,Switzerland,Saudi Arabia,1,0,2,0,,,,,Poland,Normal Time,Education City Stadium,Al Rayyan,2,0
+917,2022,Qatar,26 November 2022,Group Stage,Matchday 7,Group C,Switzerland,Mexico,0,0,2,0,,,,,Argentina,Normal Time,Lusail Iconic Stadium,Lusail,2,0
+918,2022,Qatar,30 November 2022,Group Stage,Matchday 11,Group C,Switzerland,Argentina,0,0,0,2,,,,,Argentina,Normal Time,Stadium 974,Doha,0,2
+919,2022,Qatar,30 November 2022,Group Stage,Matchday 11,Group C,Switzerland,Mexico,0,0,1,2,,,,,Mexico,Normal Time,Lusail Iconic Stadium,Lusail,1,2
+920,2022,Qatar,22 November 2022,Group Stage,Matchday 3,Group D,Switzerland,Tunisia,,,0,0,,,,,Draw,Draw,Education City Stadium,Al Rayyan,0,0
+921,2022,Qatar,22 November 2022,Group Stage,Matchday 3,Group D,Switzerland,Australia,2,1,4,1,,,,,France,Normal Time,Al Janoub Stadium,Al Wakrah,4,1
+922,2022,Qatar,26 November 2022,Group Stage,Matchday 7,Group D,Switzerland,Australia,0,1,0,1,,,,,Australia,Normal Time,Al Janoub Stadium,Al Wakrah,0,1
+923,2022,Qatar,26 November 2022,Group Stage,Matchday 7,Group D,Switzerland,Denmark,0,0,2,1,,,,,France,Normal Time,Stadium 974,Doha,2,1
+924,2022,Qatar,30 November 2022,Group Stage,Matchday 11,Group D,Switzerland,Denmark,0,0,1,0,,,,,Australia,Normal Time,Al Janoub Stadium,Al Wakrah,1,0
+925,2022,Qatar,30 November 2022,Group Stage,Matchday 11,Group D,Switzerland,France,0,0,1,0,,,,,Tunisia,Normal Time,Education City Stadium,Al Rayyan,1,0
+926,2022,Qatar,23 November 2022,Group Stage,Matchday 4,Group E,Switzerland,Japan,1,0,1,2,,,,,Japan,Normal Time,Khalifa International Stadium,Al Rayyan,1,2
+927,2022,Qatar,23 November 2022,Group Stage,Matchday 4,Group E,Switzerland,Costa Rica,3,0,7,0,,,,,Spain,Normal Time,Al Thumama Stadium,Doha,7,0
+928,2022,Qatar,27 November 2022,Group Stage,Matchday 8,Group E,Switzerland,Costa Rica,0,0,0,1,,,,,Costa Rica,Normal Time,Ahmad bin Ali Stadium,Al Rayyan,0,1
+929,2022,Qatar,27 November 2022,Group Stage,Matchday 8,Group E,Switzerland,Germany,0,0,1,1,,,,,Draw,Draw,Al Bayt Stadium,Al Khor,1,1
+930,2022,Qatar,01 December 2022,Group Stage,Matchday 12,Group E,Switzerland,Spain,0,0,2,1,,,,,Japan,Normal Time,Khalifa International Stadium,Al Rayyan,2,1
+931,2022,Qatar,01 December 2022,Group Stage,Matchday 12,Group E,Switzerland,Germany,0,1,2,4,,,,,Germany,Normal Time,Al Bayt Stadium,Al Khor,2,4
+932,2022,Qatar,23 November 2022,Group Stage,Matchday 4,Group F,Switzerland,Croatia,,,0,0,,,,,Draw,Draw,Al Bayt Stadium,Al Khor,0,0
+933,2022,Qatar,23 November 2022,Group Stage,Matchday 4,Group F,Togo,Canada,1,0,1,0,,,,,Belgium,Normal Time,Ahmad bin Ali Stadium,Al Rayyan,1,0
+934,2022,Qatar,27 November 2022,Group Stage,Matchday 8,Group F,Togo,Morocco,0,0,0,2,,,,,Morocco,Normal Time,Al Thumama Stadium,Doha,0,2
+935,2022,Qatar,27 November 2022,Group Stage,Matchday 8,Group F,Trinidad and Tobago,Canada,2,1,4,1,,,,,Croatia,Normal Time,Khalifa International Stadium,Al Rayyan,4,1
+936,2022,Qatar,01 December 2022,Group Stage,Matchday 12,Group F,Tunisia,Belgium,,,0,0,,,,,Draw,Draw,Ahmad bin Ali Stadium,Al Rayyan,0,0
+937,2022,Qatar,01 December 2022,Group Stage,Matchday 12,Group F,Tunisia,Morocco,1,2,1,2,,,,,Morocco,Normal Time,Al Thumama Stadium,Doha,0,2
+938,2022,Qatar,24 November 2022,Group Stage,Matchday 5,Group G,Tunisia,Cameroon,0,0,1,0,,,,,Switzerland,Normal Time,Al Janoub Stadium,Al Wakrah,1,0
+939,2022,Qatar,24 November 2022,Group Stage,Matchday 5,Group G,Tunisia,Serbia,0,0,2,0,,,,,Brazil,Normal Time,Lusail Iconic Stadium,Lusail,2,0
+940,2022,Qatar,28 November 2022,Group Stage,Matchday 9,Group G,Tunisia,Serbia,1,2,3,3,,,,,Draw,Draw,Al Janoub Stadium,Al Wakrah,3,3
+941,2022,Qatar,28 November 2022,Group Stage,Matchday 9,Group G,Tunisia,Switzerland,0,0,1,0,,,,,Brazil,Normal Time,Stadium 974,Doha,1,0
+942,2022,Qatar,02 December 2022,Group Stage,Matchday 13,Group G,Tunisia,Switzerland,2,1,2,3,,,,,Switzerland,Normal Time,Stadium 974,Doha,2,3
+943,2022,Qatar,02 December 2022,Group Stage,Matchday 13,Group G,Tunisia,Brazil,0,0,1,0,,,,,Cameroon,Normal Time,Lusail Iconic Stadium,Lusail,1,0
+944,2022,Qatar,24 November 2022,Group Stage,Matchday 5,Group H,Tunisia,South Korea,,,0,0,,,,,Draw,Draw,Education City Stadium,Al Rayyan,0,0
+945,2022,Qatar,24 November 2022,Group Stage,Matchday 5,Group H,Turkey,Ghana,0,0,3,2,,,,,Portugal,Normal Time,Stadium 974,Doha,3,2
+946,2022,Qatar,28 November 2022,Group Stage,Matchday 9,Group H,Turkey,Ghana,0,2,2,3,,,,,Ghana,Normal Time,Education City Stadium,Al Rayyan,2,3
+947,2022,Qatar,28 November 2022,Group Stage,Matchday 9,Group H,Turkey,Uruguay,0,0,2,0,,,,,Portugal,Normal Time,Lusail Iconic Stadium,Lusail,2,0
+948,2022,Qatar,02 December 2022,Group Stage,Matchday 13,Group H,Turkey,Uruguay,,,0,2,,,,,Uruguay,Normal Time,Al Janoub Stadium,Al Wakrah,0,2
+949,2022,Qatar,02 December 2022,Group Stage,Matchday 13,Group H,Ukraine,Portugal,1,1,2,1,,,,,South Korea,Normal Time,Lusail Iconic Stadium,Lusail,2,1
+950,2022,Qatar,03 December 2022,Round of 16,Round of 16,,United Arab Emirates,USA,2,0,3,1,,,,,Netherlands,Normal Time,Khalifa International Stadium,Al Rayyan,3,1
+951,2022,Qatar,03 December 2022,Round of 16,Round of 16,,United States,Australia,1,0,2,1,,,,,Argentina,Normal Time,Ahmad bin Ali Stadium,Al Rayyan,2,0
+952,2022,Qatar,04 December 2022,Round of 16,Round of 16,,United States,Poland,1,0,3,1,,,,,France,Normal Time,Al Thumama Stadium,Doha,3,1
+953,2022,Qatar,04 December 2022,Round of 16,Round of 16,,United States,Senegal,2,0,3,0,,,,,England,Normal Time,Al Bayt Stadium,Al Khor,3,0
+954,2022,Qatar,05 December 2022,Round of 16,Round of 16,,United States,Croatia,1,0,1,1,1,1,1,3,Croatia,Penalties,Al Janoub Stadium,Al Wakrah,1,1
+955,2022,Qatar,05 December 2022,Round of 16,Round of 16,,Uruguay,South Korea,4,0,4,1,,,,,Brazil,Normal Time,Stadium 974,Doha,4,1
+956,2022,Qatar,06 December 2022,Round of 16,Round of 16,,Uruguay,Spain,0,0,0,0,0,0,3,0,Morocco,Penalties,Education City Stadium,Al Rayyan,0,0
+957,2022,Qatar,06 December 2022,Round of 16,Round of 16,,Uruguay,Switzerland,2,0,6,1,,,,,Portugal,Normal Time,Lusail Iconic Stadium,Lusail,6,1
+958,2022,Qatar,09 December 2022,Quarter-final,Quarter-finals,,Uruguay,Brazil,0,0,0,0,1,1,4,2,Croatia,Penalties,Education City Stadium,Al Rayyan,1,1
+959,2022,Qatar,09 December 2022,Quarter-final,Quarter-finals,,Uruguay,Argentina,1,0,2,2,2,2,3,4,Argentina,Penalties,Lusail Iconic Stadium,Lusail,2,2
+960,2022,Qatar,10 December 2022,Quarter-final,Quarter-finals,,Uruguay,Portugal,1,0,1,0,,,,,Morocco,Normal Time,Al Thumama Stadium,Doha,1,0
+961,2022,Qatar,10 December 2022,Quarter-final,Quarter-finals,,Uruguay,France,0,1,1,2,,,,,France,Normal Time,Al Bayt Stadium,Al Khor,1,2
+962,2022,Qatar,13 December 2022,Semi-final,Semi-finals,,Uruguay,Croatia,2,0,3,0,,,,,Argentina,Normal Time,Lusail Iconic Stadium,Lusail,3,0
+963,2022,Qatar,14 December 2022,Semi-final,Semi-finals,,Uruguay,Morocco,1,0,2,0,,,,,France,Normal Time,Al Bayt Stadium,Al Khor,2,0
+964,2022,Qatar,17 December 2022,Third Place Play-off,Match for third place,,Uruguay,Morocco,2,1,2,1,,,,,Croatia,Normal Time,Khalifa International Stadium,Al Rayyan,2,1
+965,2022,Qatar,18 December 2022,Final,Final,,Uruguay,France,2,0,2,2,3,3,4,2,Argentina,Penalties,Lusail Iconic Stadium,Lusail,3,3
+966,2026,"Canada, Mexico, United States",11 June 2026,Group Stage,Matchday 1,Group A,Uruguay,South Africa,1,0,2,0,,,,,Mexico,Normal Time,Estadio Azteca,Mexico City,2,0
+967,2026,"Canada, Mexico, United States",11 June 2026,Group Stage,Matchday 1,Group A,Uruguay,Czech Republic,0,0,2,1,,,,,South Korea,Normal Time,Estadio Guadalajara,Zapopan,2,1
+968,2026,"Canada, Mexico, United States",18 June 2026,Group Stage,Matchday 8,Group A,Uruguay,South Africa,1,0,1,1,,,,,Draw,Draw,Mercedes-Benz Stadium,Atlanta,1,1
+969,2026,"Canada, Mexico, United States",18 June 2026,Group Stage,Matchday 8,Group A,Uruguay,South Korea,0,0,1,0,,,,,Mexico,Normal Time,Estadio Guadalajara,Zapopan,1,0
+970,2026,"Canada, Mexico, United States",24 June 2026,Group Stage,Matchday 14,Group A,Uruguay,Mexico,0,0,0,3,,,,,Mexico,Normal Time,Estadio Azteca,Mexico City,0,3
+971,2026,"Canada, Mexico, United States",24 June 2026,Group Stage,Matchday 14,Group A,Uruguay,South Korea,0,0,1,0,,,,,South Africa,Normal Time,Estadio Monterrey,Guadalupe,1,0
+972,2026,"Canada, Mexico, United States",12 June 2026,Group Stage,Matchday 2,Group B,Uruguay,Bosnia & Herzegovina,0,1,1,1,,,,,Draw,Draw,BMO Field,Toronto,1,1
+973,2026,"Canada, Mexico, United States",13 June 2026,Group Stage,Matchday 3,Group B,Uruguay,Switzerland,0,1,1,1,,,,,Draw,Draw,Levi's Stadium,Santa Clara,1,1
+974,2026,"Canada, Mexico, United States",18 June 2026,Group Stage,Matchday 8,Group B,Uruguay,Bosnia & Herzegovina,0,0,4,1,,,,,Switzerland,Normal Time,SoFi Stadium,Inglewood,4,1
+975,2026,"Canada, Mexico, United States",18 June 2026,Group Stage,Matchday 8,Group B,Uruguay,Qatar,3,0,6,0,,,,,Canada,Normal Time,BC Place,Vancouver,6,0
+976,2026,"Canada, Mexico, United States",24 June 2026,Group Stage,Matchday 14,Group B,Uruguay,Canada,0,0,2,1,,,,,Switzerland,Normal Time,BC Place,Vancouver,2,1
+977,2026,"Canada, Mexico, United States",24 June 2026,Group Stage,Matchday 14,Group B,Uruguay,Qatar,2,1,3,1,,,,,Bosnia & Herzegovina,Normal Time,Lumen Field,Seattle,3,1
+978,2026,"Canada, Mexico, United States",13 June 2026,Group Stage,Matchday 3,Group C,Uruguay,Morocco,1,1,1,1,,,,,Draw,Draw,MetLife Stadium,East Rutherford,1,1
+979,2026,"Canada, Mexico, United States",13 June 2026,Group Stage,Matchday 3,Group C,Uruguay,Scotland,0,1,0,1,,,,,Scotland,Normal Time,Gillette Stadium,Foxborough,0,1
+980,2026,"Canada, Mexico, United States",19 June 2026,Group Stage,Matchday 9,Group C,Uruguay,Morocco,0,1,0,1,,,,,Morocco,Normal Time,Gillette Stadium,Foxborough,0,1
+981,2026,"Canada, Mexico, United States",19 June 2026,Group Stage,Matchday 9,Group C,Uruguay,Haiti,3,0,3,0,,,,,Brazil,Normal Time,Lincoln Financial Field,Philadelphia,3,0
+982,2026,"Canada, Mexico, United States",24 June 2026,Group Stage,Matchday 14,Group C,Uruguay,Brazil,0,2,0,3,,,,,Brazil,Normal Time,Hard Rock Stadium,Miami Gardens,0,3
+983,2026,"Canada, Mexico, United States",24 June 2026,Group Stage,Matchday 14,Group C,Uruguay,Haiti,2,2,4,2,,,,,Morocco,Normal Time,Mercedes-Benz Stadium,Atlanta,4,2
+984,2026,"Canada, Mexico, United States",12 June 2026,Group Stage,Matchday 2,Group D,Uruguay,Paraguay,3,0,4,1,,,,,USA,Normal Time,SoFi Stadium,Inglewood,4,1
+985,2026,"Canada, Mexico, United States",13 June 2026,Group Stage,Matchday 3,Group D,Uruguay,Turkey,1,0,2,0,,,,,Australia,Normal Time,BC Place,Vancouver,2,0
+986,2026,"Canada, Mexico, United States",19 June 2026,Group Stage,Matchday 9,Group D,Uruguay,Australia,2,0,2,0,,,,,USA,Normal Time,Lumen Field,Seattle,2,0
+987,2026,"Canada, Mexico, United States",19 June 2026,Group Stage,Matchday 9,Group D,Uruguay,Paraguay,0,1,0,1,,,,,Paraguay,Normal Time,Levi's Stadium,Santa Clara,0,1
+988,2026,"Canada, Mexico, United States",25 June 2026,Group Stage,Matchday 15,Group D,Uruguay,USA,2,1,3,2,,,,,Turkey,Normal Time,SoFi Stadium,Inglewood,3,2
+989,2026,"Canada, Mexico, United States",25 June 2026,Group Stage,Matchday 15,Group D,Uruguay,Australia,0,0,0,0,,,,,Draw,Draw,Levi's Stadium,Santa Clara,0,0
+990,2026,"Canada, Mexico, United States",14 June 2026,Group Stage,Matchday 4,Group E,Uruguay,CuraÃ§ao,3,1,7,1,,,,,Germany,Normal Time,NRG Stadium,Houston,7,1
+991,2026,"Canada, Mexico, United States",14 June 2026,Group Stage,Matchday 4,Group E,Uruguay,Ecuador,0,0,1,0,,,,,Ivory Coast,Normal Time,Lincoln Financial Field,Philadelphia,1,0
+992,2026,"Canada, Mexico, United States",20 June 2026,Group Stage,Matchday 10,Group E,Uruguay,Ivory Coast,0,1,2,1,,,,,Germany,Normal Time,BMO Field,Toronto,2,1
+993,2026,"Canada, Mexico, United States",20 June 2026,Group Stage,Matchday 10,Group E,USA,CuraÃ§ao,0,0,0,0,,,,,Draw,Draw,Arrowhead Stadium,Kansas City,0,0
+994,2026,"Canada, Mexico, United States",25 June 2026,Group Stage,Matchday 15,Group E,USA,Ivory Coast,0,1,0,2,,,,,Ivory Coast,Normal Time,Lincoln Financial Field,Philadelphia,0,2
+995,2026,"Canada, Mexico, United States",25 June 2026,Group Stage,Matchday 15,Group E,USA,Germany,1,1,2,1,,,,,Ecuador,Normal Time,MetLife Stadium,East Rutherford,2,1
+996,2026,"Canada, Mexico, United States",14 June 2026,Group Stage,Matchday 4,Group F,USA,Japan,0,0,2,2,,,,,Draw,Draw,AT&T Stadium,Arlington,2,2
+997,2026,"Canada, Mexico, United States",14 June 2026,Group Stage,Matchday 4,Group F,USA,Tunisia,2,1,5,1,,,,,Sweden,Normal Time,Estadio Monterrey,Guadalupe,5,1
+998,2026,"Canada, Mexico, United States",20 June 2026,Group Stage,Matchday 10,Group F,USA,Sweden,2,0,5,1,,,,,Netherlands,Normal Time,NRG Stadium,Houston,5,1
+999,2026,"Canada, Mexico, United States",20 June 2026,Group Stage,Matchday 10,Group F,USA,Japan,0,2,0,4,,,,,Japan,Normal Time,Estadio Monterrey,Guadalupe,0,4
+1000,2026,"Canada, Mexico, United States",25 June 2026,Group Stage,Matchday 15,Group F,USA,Sweden,0,0,1,1,,,,,Draw,Draw,AT&T Stadium,Arlington,1,1
+1001,2026,"Canada, Mexico, United States",25 June 2026,Group Stage,Matchday 15,Group F,USA,Netherlands,0,2,1,3,,,,,Netherlands,Normal Time,Arrowhead Stadium,Kansas City,1,3
+1002,2026,"Canada, Mexico, United States",15 June 2026,Group Stage,Matchday 5,Group G,USA,Egypt,0,1,1,1,,,,,Draw,Draw,Lumen Field,Seattle,1,1
+1003,2026,"Canada, Mexico, United States",15 June 2026,Group Stage,Matchday 5,Group G,USA,New Zealand,1,1,2,2,,,,,Draw,Draw,SoFi Stadium,Inglewood,2,2
+1004,2026,"Canada, Mexico, United States",21 June 2026,Group Stage,Matchday 11,Group G,USA,Iran,0,0,0,0,,,,,Draw,Draw,SoFi Stadium,Inglewood,0,0
+1005,2026,"Canada, Mexico, United States",21 June 2026,Group Stage,Matchday 11,Group G,USA,Egypt,1,0,1,3,,,,,Egypt,Normal Time,BC Place,Vancouver,1,3
+1006,2026,"Canada, Mexico, United States",26 June 2026,Group Stage,Matchday 16,Group G,USA,Iran,1,1,1,1,,,,,Draw,Draw,Lumen Field,Seattle,1,1
+1007,2026,"Canada, Mexico, United States",26 June 2026,Group Stage,Matchday 16,Group G,USA,Belgium,0,1,1,5,,,,,Belgium,Normal Time,BC Place,Vancouver,1,5
+1008,2026,"Canada, Mexico, United States",15 June 2026,Group Stage,Matchday 5,Group H,USA,Cape Verde,0,0,0,0,,,,,Draw,Draw,Mercedes-Benz Stadium,Atlanta,0,0
+1009,2026,"Canada, Mexico, United States",15 June 2026,Group Stage,Matchday 5,Group H,Uzbekistan,Uruguay,1,0,1,1,,,,,Draw,Draw,Hard Rock Stadium,Miami Gardens,1,1
+1010,2026,"Canada, Mexico, United States",21 June 2026,Group Stage,Matchday 11,Group H,Wales,Saudi Arabia,3,0,4,0,,,,,Spain,Normal Time,Mercedes-Benz Stadium,Atlanta,4,0
+1011,2026,"Canada, Mexico, United States",21 June 2026,Group Stage,Matchday 11,Group H,Wales,Cape Verde,2,1,2,2,,,,,Draw,Draw,Hard Rock Stadium,Miami Gardens,2,2
+1012,2026,"Canada, Mexico, United States",26 June 2026,Group Stage,Matchday 16,Group H,Wales,Saudi Arabia,0,0,0,0,,,,,Draw,Draw,NRG Stadium,Houston,0,0
+1013,2026,"Canada, Mexico, United States",26 June 2026,Group Stage,Matchday 16,Group H,West Germany,Spain,0,1,0,1,,,,,Spain,Normal Time,Estadio Guadalajara,Zapopan,0,1
+1014,2026,"Canada, Mexico, United States",16 June 2026,Group Stage,Matchday 6,Group I,West Germany,Senegal,0,0,3,1,,,,,France,Normal Time,MetLife Stadium,East Rutherford,3,1
+1015,2026,"Canada, Mexico, United States",16 June 2026,Group Stage,Matchday 6,Group I,West Germany,Norway,1,2,1,4,,,,,Norway,Normal Time,Gillette Stadium,Foxborough,1,4
+1016,2026,"Canada, Mexico, United States",22 June 2026,Group Stage,Matchday 12,Group I,West Germany,Iraq,1,0,3,0,,,,,France,Normal Time,Lincoln Financial Field,Philadelphia,3,0
+1017,2026,"Canada, Mexico, United States",22 June 2026,Group Stage,Matchday 12,Group I,West Germany,Senegal,1,0,3,2,,,,,Norway,Normal Time,MetLife Stadium,East Rutherford,3,2
+1018,2026,"Canada, Mexico, United States",26 June 2026,Group Stage,Matchday 16,Group I,West Germany,France,1,3,1,4,,,,,France,Normal Time,Gillette Stadium,Foxborough,1,4
+1019,2026,"Canada, Mexico, United States",26 June 2026,Group Stage,Matchday 16,Group I,West Germany,Iraq,1,0,5,0,,,,,Senegal,Normal Time,BMO Field,Toronto,5,0
+1020,2026,"Canada, Mexico, United States",16 June 2026,Group Stage,Matchday 6,Group J,West Germany,Algeria,1,0,3,0,,,,,Argentina,Normal Time,Arrowhead Stadium,Kansas City,3,0
+1021,2026,"Canada, Mexico, United States",16 June 2026,Group Stage,Matchday 6,Group J,West Germany,Jordan,1,0,3,1,,,,,Austria,Normal Time,Levi's Stadium,Santa Clara,3,1
+1022,2026,"Canada, Mexico, United States",22 June 2026,Group Stage,Matchday 12,Group J,West Germany,Austria,1,0,2,0,,,,,Argentina,Normal Time,AT&T Stadium,Arlington,2,0
+1023,2026,"Canada, Mexico, United States",22 June 2026,Group Stage,Matchday 12,Group J,West Germany,Algeria,1,0,1,2,,,,,Algeria,Normal Time,Levi's Stadium,Santa Clara,1,2
+1024,2026,"Canada, Mexico, United States",27 June 2026,Group Stage,Matchday 17,Group J,West Germany,Austria,1,1,3,3,,,,,Draw,Draw,Arrowhead Stadium,Kansas City,3,3
+1025,2026,"Canada, Mexico, United States",27 June 2026,Group Stage,Matchday 17,Group J,West Germany,Argentina,0,2,1,3,,,,,Argentina,Normal Time,AT&T Stadium,Arlington,1,3
+1026,2026,"Canada, Mexico, United States",17 June 2026,Group Stage,Matchday 7,Group K,West Germany,DR Congo,1,1,1,1,,,,,Draw,Draw,NRG Stadium,Houston,1,1
+1027,2026,"Canada, Mexico, United States",17 June 2026,Group Stage,Matchday 7,Group K,West Germany,Colombia,0,1,1,3,,,,,Colombia,Normal Time,Estadio Azteca,Mexico City,1,3
+1028,2026,"Canada, Mexico, United States",23 June 2026,Group Stage,Matchday 13,Group K,West Germany,Uzbekistan,3,0,5,0,,,,,Portugal,Normal Time,NRG Stadium,Houston,5,0
+1029,2026,"Canada, Mexico, United States",23 June 2026,Group Stage,Matchday 13,Group K,West Germany,DR Congo,0,0,1,0,,,,,Colombia,Normal Time,Estadio Guadalajara,Zapopan,1,0
+1030,2026,"Canada, Mexico, United States",27 June 2026,Group Stage,Matchday 17,Group K,West Germany,Portugal,0,0,0,0,,,,,Draw,Draw,Hard Rock Stadium,Miami Gardens,0,0
+1031,2026,"Canada, Mexico, United States",27 June 2026,Group Stage,Matchday 17,Group K,West Germany,Uzbekistan,0,1,3,1,,,,,DR Congo,Normal Time,Mercedes-Benz Stadium,Atlanta,3,1
+1032,2026,"Canada, Mexico, United States",17 June 2026,Group Stage,Matchday 7,Group L,West Germany,Croatia,2,2,4,2,,,,,England,Normal Time,AT&T Stadium,Arlington,4,2
+1033,2026,"Canada, Mexico, United States",17 June 2026,Group Stage,Matchday 7,Group L,West Germany,Panama,0,0,1,0,,,,,Ghana,Normal Time,BMO Field,Toronto,1,0
+1034,2026,"Canada, Mexico, United States",23 June 2026,Group Stage,Matchday 13,Group L,West Germany,Ghana,0,0,0,0,,,,,Draw,Draw,Gillette Stadium,Foxborough,0,0
+1035,2026,"Canada, Mexico, United States",23 June 2026,Group Stage,Matchday 13,Group L,West Germany,Croatia,0,0,0,1,,,,,Croatia,Normal Time,BMO Field,Toronto,0,1
+1036,2026,"Canada, Mexico, United States",27 June 2026,Group Stage,Matchday 17,Group L,West Germany,England,0,0,0,2,,,,,England,Normal Time,MetLife Stadium,East Rutherford,0,2
+1037,2026,"Canada, Mexico, United States",27 June 2026,Group Stage,Matchday 17,Group L,West Germany,Ghana,1,0,2,1,,,,,Croatia,Normal Time,Lincoln Financial Field,Philadelphia,2,1
+1038,2026,"Canada, Mexico, United States",28 June 2026,Round of 32,Round of 32,,West Germany,Canada,0,0,0,1,,,,,Canada,Normal Time,SoFi Stadium,Inglewood,0,1
+1039,2026,"Canada, Mexico, United States",29 June 2026,Round of 32,Round of 32,,West Germany,Paraguay,0,1,1,1,1,1,3,4,Paraguay,Penalties,Gillette Stadium,Foxborough,1,1
+1040,2026,"Canada, Mexico, United States",29 June 2026,Round of 32,Round of 32,,West Germany,Morocco,0,0,1,1,1,1,2,3,Morocco,Penalties,Estadio Monterrey,Guadalupe,1,1
+1041,2026,"Canada, Mexico, United States",29 June 2026,Round of 32,Round of 32,,West Germany,Japan,0,1,2,1,,,,,Brazil,Normal Time,NRG Stadium,Houston,2,1
+1042,2026,"Canada, Mexico, United States",30 June 2026,Round of 32,Round of 32,,West Germany,Sweden,1,0,3,0,,,,,France,Normal Time,MetLife Stadium,East Rutherford,3,0
+1043,2026,"Canada, Mexico, United States",30 June 2026,Round of 32,Round of 32,,West Germany,Norway,0,1,1,2,,,,,Norway,Normal Time,AT&T Stadium,Arlington,1,2
+1044,2026,"Canada, Mexico, United States",30 June 2026,Round of 32,Round of 32,,West Germany,Ecuador,1,0,2,0,,,,,Mexico,Normal Time,Estadio Azteca,Mexico City,2,0
+1045,2026,"Canada, Mexico, United States",01 July 2026,Round of 32,Round of 32,,West Germany,DR Congo,0,1,2,1,,,,,England,Normal Time,Mercedes-Benz Stadium,Atlanta,2,1
+1046,2026,"Canada, Mexico, United States",01 July 2026,Round of 32,Round of 32,,West Germany,Bosnia & Herzegovina,1,0,2,0,,,,,USA,Normal Time,Levi's Stadium,Santa Clara,2,0
+1047,2026,"Canada, Mexico, United States",01 July 2026,Round of 32,Round of 32,,West Germany,Senegal,0,1,2,2,3,2,,,Belgium,Extra Time,Lumen Field,Seattle,3,2
+1048,2026,"Canada, Mexico, United States",02 July 2026,Round of 32,Round of 32,,West Germany,Croatia,0,0,2,1,,,,,Portugal,Normal Time,BMO Field,Toronto,2,1
+1049,2026,"Canada, Mexico, United States",02 July 2026,Round of 32,Round of 32,,West Germany,Austria,1,0,3,0,,,,,Spain,Normal Time,SoFi Stadium,Inglewood,3,0
+1050,2026,"Canada, Mexico, United States",02 July 2026,Round of 32,Round of 32,,Yugoslavia,Algeria,1,0,2,0,,,,,Switzerland,Normal Time,BC Place,Vancouver,2,0
+1051,2026,"Canada, Mexico, United States",03 July 2026,Round of 32,Round of 32,,Yugoslavia,Cape Verde,1,0,1,1,3,2,,,Argentina,Extra Time,Hard Rock Stadium,Miami Gardens,3,2
+1052,2026,"Canada, Mexico, United States",03 July 2026,Round of 32,Round of 32,,Yugoslavia,Ghana,1,0,1,0,,,,,Colombia,Normal Time,Arrowhead Stadium,Kansas City,1,0
+1053,2026,"Canada, Mexico, United States",03 July 2026,Round of 32,Round of 32,,Yugoslavia,Egypt,0,1,1,1,1,1,2,4,Egypt,Penalties,AT&T Stadium,Arlington,1,1
+1054,2026,"Canada, Mexico, United States",04 July 2026,Round of 16,Round of 16,,Yugoslavia,France,0,0,0,1,,,,,France,Normal Time,Lincoln Financial Field,Philadelphia,0,1
+1055,2026,"Canada, Mexico, United States",04 July 2026,Round of 16,Round of 16,,Yugoslavia,Morocco,0,0,0,3,,,,,Morocco,Normal Time,NRG Stadium,Houston,0,3
+1056,2026,"Canada, Mexico, United States",05 July 2026,Round of 16,Round of 16,,Yugoslavia,Norway,0,0,1,2,,,,,Norway,Normal Time,MetLife Stadium,East Rutherford,1,2
+1057,2026,"Canada, Mexico, United States",05 July 2026,Round of 16,Round of 16,,Yugoslavia,England,1,2,2,3,,,,,England,Normal Time,Estadio Azteca,Mexico City,2,3
+1058,2026,"Canada, Mexico, United States",06 July 2026,Round of 16,Round of 16,,Yugoslavia,Spain,0,0,0,1,,,,,Spain,Normal Time,AT&T Stadium,Arlington,0,1
+1059,2026,"Canada, Mexico, United States",06 July 2026,Round of 16,Round of 16,,Yugoslavia,Belgium,1,2,1,4,,,,,Belgium,Normal Time,Lumen Field,Seattle,1,4
+1060,2026,"Canada, Mexico, United States",07 July 2026,Round of 16,Round of 16,,Yugoslavia,Egypt,0,1,3,2,,,,,Argentina,Normal Time,Mercedes-Benz Stadium,Atlanta,3,2
+1061,2026,"Canada, Mexico, United States",07 July 2026,Round of 16,Round of 16,,Yugoslavia,Colombia,0,0,0,0,0,0,4,3,Switzerland,Penalties,BC Place,Vancouver,0,0
+1062,2026,"Canada, Mexico, United States",09 July 2026,Quarter-final,Quarter-finals,,Yugoslavia,Morocco,0,0,2,0,,,,,France,Normal Time,Gillette Stadium,Foxborough,2,0
+1063,2026,"Canada, Mexico, United States",10 July 2026,Quarter-final,Quarter-finals,,Yugoslavia,Belgium,1,1,2,1,,,,,Spain,Normal Time,SoFi Stadium,Inglewood,2,1
+1064,2026,"Canada, Mexico, United States",11 July 2026,Quarter-final,Quarter-finals,,Yugoslavia,England,1,1,1,1,1,2,,,England,Extra Time,Hard Rock Stadium,Miami Gardens,1,2
+1065,2026,"Canada, Mexico, United States",11 July 2026,Quarter-final,Quarter-finals,,Yugoslavia,Switzerland,1,0,1,1,3,1,,,Argentina,Extra Time,Arrowhead Stadium,Kansas City,3,1
+1066,2026,"Canada, Mexico, United States",14 July 2026,Semi-final,Semi-finals,,Yugoslavia,Spain,0,1,0,2,,,,,Spain,Normal Time,AT&T Stadium,Arlington,0,2
+1067,2026,"Canada, Mexico, United States",15 July 2026,Semi-final,Semi-finals,,Yugoslavia,Argentina,0,0,1,2,,,,,Argentina,Normal Time,Mercedes-Benz Stadium,Atlanta,1,2
+1068,2026,"Canada, Mexico, United States",18 July 2026,Third Place Play-off,Match for third place,,Zaire,England,0,4,4,6,,,,,England,Normal Time,Hard Rock Stadium,Miami Gardens,4,6
+1069,2026,"Canada, Mexico, United States",19 July 2026,Final,Final,,Zaire,Argentina,0,0,0,0,1,0,,,Spain,Extra Time,MetLife Stadium,East Rutherford,1,0
